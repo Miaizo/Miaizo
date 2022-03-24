@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<!-- <body>
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+</body> -->
+# ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Miaizo&show_icons=true&count_private=true&title_color=ffffff&text_color=fff&icon_color=fff&bg_color=DEG,39C5BB,66ccff)
 <!--
 **Miaizo/Miaizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
